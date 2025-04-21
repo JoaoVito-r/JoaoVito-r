@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o João Vitor</h1>
+<h1 align="center">Olá! 👋</h1>
 
 <p align="center">
   <i>Formado em economia e com forte interesse em finanças e programação.</i><br>
